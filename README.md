@@ -1,5 +1,6 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Johana Carrizo </h1>
+
 #### Estudiante de Ingenieria en Sistema de Información y Desarrollador web junior full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
 
 #### Actualmente me dedico a:
