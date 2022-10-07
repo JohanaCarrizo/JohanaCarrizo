@@ -9,6 +9,7 @@
 - Crecer como persona, soy empática, proactiva y que intenta mejorar continuamente.
 - Afianzar e investigar principios, buenas practicas, patrones y metodologías de desarrollo de software agiles.
 
+#### Skills: JAVA / C# / GIT / GitHub / JS / HTML / CSS
 
 <p align="center">
 <img src = "BannerGitHub.jpg" width = 1000 height = 300 >
