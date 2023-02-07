@@ -10,7 +10,7 @@
 - A programar proyectos académicos de ámbito universitario como en capacitaciones. 
 - Afianzar e investigar principios, buenas practicas, patrones y metodologías de desarrollo de software agiles.
 
-#### Skills: JAVA / C# / GIT / GitHub / JS / HTML / CSS
+#### Skills: JAVA / GIT / GitHub / JS / HTML / CSS / SPRING
 
 <p align="center">
 <img src = "BannerGitHub.jpg" width = 1000 height = 300 >
